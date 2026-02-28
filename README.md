@@ -1,5 +1,9 @@
 # FastMuon ⚡
 
+[![GitHub visitors](https://komarev.com/ghpvc/?username=Decem-Y&repo=FastMuon&label=visitors&color=blue)](https://github.com/Decem-Y/FastMuon)
+[![GitHub stars](https://img.shields.io/github/stars/Decem-Y/FastMuon?style=flat)](https://github.com/Decem-Y/FastMuon/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > **A reproduction and benchmark study** of [Turbo-Muon](https://hal.science/hal-05390446) ([flash-newton-schulz](https://github.com/thib-s/flash-newton-schulz)) applied to the [Muon optimizer](https://kellerjordan.github.io/posts/muon/).
 
 [中文版 README](README_CN.md)
