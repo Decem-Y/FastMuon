@@ -226,9 +226,17 @@ The core algorithms in this repository are from the following works. **Please ci
 
 ## Citation
 
-Please cite the original Turbo-Muon paper, **not this repository**:
+Please cite the original Muon and Turbo-Muon papers, **not this repository**:
 
 ```bibtex
+@misc{jordan2024muon,
+  author       = {Keller Jordan and Yuchen Jin and Vlado Boza and You Jiacheng and
+                  Franz Cesista and Laker Newhouse and Jeremy Bernstein},
+  title        = {Muon: An optimizer for hidden layers in neural networks},
+  year         = {2024},
+  url          = {https://kellerjordan.github.io/posts/muon/}
+}
+
 @unpublished{boissin:hal-05390446,
   TITLE = {{Turbo-Muon: Accelerating Orthogonality-Based Optimization with Pre-Conditioning}},
   AUTHOR = {Boissin, Thibaut and Massena, Thomas and Mamalet, Franck and Serrurier, Mathieu},
